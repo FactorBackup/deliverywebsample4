@@ -1,3 +1,5 @@
+https://github.com/wayhome25?tab=repositories - 해당 repo 참조
+
 
 # 주문 웹어플리케이션 만들기 연습
 > 서울대학교 벤처창업 웹프로그래밍 기말고사 [공개문제](https://gist.github.com/allieus/fe16998add86716b4825ec56205e00ce)를 활용하여 django를 연습한 내용입니다.
